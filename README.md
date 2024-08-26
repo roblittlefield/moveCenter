@@ -57,7 +57,7 @@ The small delay (`5ms`) in the `setTimeout` function is crucial for preventing t
 
 ## License
 
-This code is licensed under the MIT License. Please see the LICENSE file for more details.
+This code is licensed under the MIT License.
 
 ## Acknowledgments
 
